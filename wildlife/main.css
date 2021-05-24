@@ -18,7 +18,7 @@
     width: 1550px;
     display: flex;
     justify-content: space-around; 
-    background:url(/assets/foxy.jpg) no-repeat;
+    background:url(/wildlife/assets/foxy.jpg) no-repeat;
   }
   
   .menu{
