@@ -20,7 +20,7 @@
     height: 100%;
     min-height: 780px; 
     
-    background-image: url(/assets/foxy.jpg);
+    background-image: url(/SA50-1-19_DaniilZolotov/wildlife/assets/foxy.jpg);
 }
 .header {
 
@@ -256,7 +256,7 @@ h1 {
     align-items: flex-end;
     justify-content: center;
 
-    background-image: url(/assets/deer.jpg)
+    background-image: url(/SA50-1-19_DaniilZolotov/wildlife/assets/deer.jpg); 
 }
 .picture__2 {
     height: 360px;
@@ -267,7 +267,9 @@ h1 {
     align-items: flex-end;
     justify-content: center;
 
-    background-image: url(/assets/squirrel.jpg)
+    background-image: url(/SA50-1-19_DaniilZolotov/wildlife/assets/squirrel.jpg)
+    
+ 
 }
 .picture__3 {
     height: 360px;
@@ -278,7 +280,7 @@ h1 {
     align-items: flex-end;
     justify-content: center;
 
-    background-image: url(/assets/bird.jpg)
+    background-image: url(/SA50-1-19_DaniilZolotov/wildlife/assets/bird.jpg)
 }
 
 #white {
@@ -388,7 +390,7 @@ h1 {
     display: flex;
     align-items: center;
 
-    background-image: url(/assets/footer.jpg);
+    background-image: url(/SA50-1-19_DaniilZolotov/wildlife/assets/footer.jpg);
 
     justify-content: space-around;
 }
